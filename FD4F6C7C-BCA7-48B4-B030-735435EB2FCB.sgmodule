@@ -1,5 +1,5 @@
-#!name=旅美
-#!desc=让特定的域名走美国线路
+#!name=Name Here
+#!desc=Description Here
 DOMAIN,openai.com,🇺🇲 美国 01
 DOMAIN-SUFFIX,behance.com,🇺🇲 美国 01
 DOMAIN-SUFFIX,a5.behance.net,🇺🇲 美国 01
